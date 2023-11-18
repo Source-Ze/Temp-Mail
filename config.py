@@ -4,7 +4,7 @@ from Plugin.api import *
 import os 
 
 SUDO = 6673736816 # admin or sudo id
-CHANNLS_BOT = ['UI_XB] # bot channls 
+CHANNLS_BOT = ['UI_XB'] # bot channls 
 API_KEY = '6365930995:AAHMGYrrkZxCbOTSDj9NWbHjdnEgWfg9dwQ'  # API_KEY OR BOT_TOKN 
 
 
